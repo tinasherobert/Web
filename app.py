@@ -22,4 +22,4 @@ def tina():
 	return "tinashe i see you "
 
 if __name__ == '__main__':
-    app.run(debug = True)
+    app.run()
